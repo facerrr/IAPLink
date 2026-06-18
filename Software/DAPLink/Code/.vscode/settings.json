@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "dap_main.h": "c",
+        "swd_host.h": "c",
+        "dap_config.h": "c",
+        "drv_led.h": "c",
+        "drv_usb.h": "c",
+        "debug_cm.h": "c",
+        "dap.h": "c",
+        "config.h": "c",
+        "target_family.h": "c",
+        "flash_blob.h": "c",
+        "dap_descriptors.h": "c",
+        "drv_usb2uart.h": "c",
+        "usbd_core.h": "c",
+        "usbd_cdc.h": "c"
+    }
+}

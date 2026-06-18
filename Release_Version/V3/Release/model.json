@@ -1,0 +1,161 @@
+{
+    "models": [
+        {
+            "app_flash_st_addr": 20480,
+            "handshake_check_buffer": "rAAC3d3dRQ==",
+            "host_type": 0,
+            "inquiry_cmd": [
+                "rAIAAN3d4AAAAABI",
+                "rAIAAN3d4gAAAABK",
+                "rAIAAN3d4gAAAABK",
+                "rAIAAN3d4QAAAABJ"
+            ],
+            "inquiry_column_widths": [
+                208,
+                264,
+                197
+            ],
+            "inquiry_content": [
+                "软件版本",
+                "CRC16",
+                "海拔模式",
+                "滤芯使用时间"
+            ],
+            "inquiry_enable": 0,
+            "inquiry_res_check": [
+                "A+AAAAE=",
+                "A+IBAQg=",
+                "A+MAAAE=",
+                "A+EPREg="
+            ],
+            "is_builtin_model": true,
+            "model_name": "手持",
+            "normal_rx_baudrate": 115200,
+            "normal_rx_check_buffer": "AQEBAAAAAg==",
+            "normal_rx_check_length": 7,
+            "normal_rx_check_value": "rAACAAAAAA==",
+            "upgrade_baudrate": 115200,
+            "upgrade_cmd": "rAIAAN3d3QBQAACV",
+            "verify_mode": 1,
+            "verison": 1
+        },
+        {
+            "app_flash_st_addr": 20480,
+            "handshake_check_buffer": "rAUA3d3dAAAASA==",
+            "host_type": 1,
+            "inquiry_cmd": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "inquiry_column_widths": [
+                223,
+                223,
+                223
+            ],
+            "inquiry_content": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "inquiry_enable": 0,
+            "inquiry_res_check": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "is_builtin_model": true,
+            "model_name": "附件",
+            "normal_rx_baudrate": 115200,
+            "normal_rx_check_buffer": "AQEBAAAAAAAAAg==",
+            "normal_rx_check_length": 10,
+            "normal_rx_check_value": "rAUAAAAAAAAAAA==",
+            "upgrade_baudrate": 115200,
+            "upgrade_cmd": "",
+            "verify_mode": 1,
+            "verison": 1
+        },
+        {
+            "app_flash_st_addr": 20480,
+            "handshake_check_buffer": "rAYA3d3dAAAASQ==",
+            "host_type": 2,
+            "inquiry_cmd": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "inquiry_column_widths": [
+                223,
+                223,
+                223
+            ],
+            "inquiry_content": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "inquiry_enable": 0,
+            "inquiry_res_check": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "is_builtin_model": true,
+            "model_name": "底座",
+            "normal_rx_baudrate": 115200,
+            "normal_rx_check_buffer": "",
+            "normal_rx_check_length": 10,
+            "normal_rx_check_value": "",
+            "upgrade_baudrate": 115200,
+            "upgrade_cmd": "",
+            "verify_mode": 1,
+            "verison": 1
+        },
+        {
+            "app_flash_st_addr": 10240,
+            "handshake_check_buffer": "rO8D3d3dA4k=",
+            "host_type": 3,
+            "inquiry_cmd": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "inquiry_column_widths": [
+                223,
+                223,
+                223
+            ],
+            "inquiry_content": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "inquiry_enable": 1,
+            "inquiry_res_check": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "is_builtin_model": true,
+            "model_name": "电池包",
+            "normal_rx_baudrate": 9600,
+            "normal_rx_check_buffer": "AQEBAAAAAgI=",
+            "normal_rx_check_length": 8,
+            "normal_rx_check_value": "rO8DAAAAAAA=",
+            "upgrade_baudrate": 115200,
+            "upgrade_cmd": "rP4B/gH9",
+            "verify_mode": 2,
+            "verison": 1
+        }
+    ],
+    "selected_model_index": 0
+}

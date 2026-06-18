@@ -1,0 +1,8 @@
+{
+    "default_dir": "D:\\Desktop\\V252x\\Software\\Bin",
+    "app_address": "0x5000",
+    "theme": "light",
+    "enable_crc": true,
+    "crc_address": "0x4E04",
+    "font_family": "Segoe UI"
+}

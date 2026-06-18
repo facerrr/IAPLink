@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "at32f403a_407.h": "c",
+        "at32f403a_407_int.h": "c",
+        "uartx.h": "c",
+        "config.h": "c",
+        "string.h": "c",
+        "random": "c",
+        "stdbool.h": "c",
+        "recv.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "flashx.h": "c",
+        "stdio.h": "c",
+        "timerx.h": "c",
+        "usb.h": "c",
+        "chry_ringbuffer.h": "c",
+        "key.h": "c",
+        "utils.h": "c",
+        "type_traits": "c"
+    }
+}
